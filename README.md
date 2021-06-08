@@ -1,2 +1,2 @@
-# BrainStrome
-Hands on anything
+# BrainStromeReact
+Hands on React
