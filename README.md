@@ -1,2 +1,2 @@
 # BrainStromeReact
-Hands on React
+Brainstroming on React and its concepts
